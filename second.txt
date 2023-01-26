@@ -1,2 +1,4 @@
 질문 git push 한번하고 나서는
 다른 옵션 안하고 git push만 해도 되는가?
+
+git pull을 위한 변경
